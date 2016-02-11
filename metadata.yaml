@@ -1,0 +1,42 @@
+_repo: The-Poems-of-Oliver-Goldsmith_49723
+contributor:
+  creator:
+    editor:
+      agent_name: Willmott, Robert Aris
+      gutenberg_agent_id: '45509'
+      url: http://www.gutenberg.org/2009/agents/45509
+  illustrators:
+  - agent_name: Humphreys, H. N.
+    gutenberg_agent_id: '45510'
+    url: http://www.gutenberg.org/2009/agents/45510
+  - agent_name: Evans, Edmund
+    alias: Evans, E. (Edmund)
+    birthdate: 1826
+    deathdate: 1905
+    gutenberg_agent_id: '31336'
+    url: http://www.gutenberg.org/2009/agents/31336
+  - agent_name: Foster, Myles Birket
+    alias: Foster, Birket
+    birthdate: 1825
+    deathdate: 1899
+    gutenberg_agent_id: '39002'
+    url: http://www.gutenberg.org/2009/agents/39002
+creator:
+  author:
+    agent_name: Goldsmith, Oliver
+    alias: Goldsmit, Oliver
+    deathdate: 1774
+    gutenberg_agent_id: '211'
+    url: http://www.gutenberg.org/2009/agents/211
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Goldsmith
+description: ''
+gutenberg_issued: '2015-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49723'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Poems of Oliver Goldsmith
+url: http://www.gutenberg.org/ebooks/49723
