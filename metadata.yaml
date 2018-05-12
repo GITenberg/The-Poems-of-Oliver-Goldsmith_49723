@@ -1,4 +1,5 @@
 _repo: The-Poems-of-Oliver-Goldsmith_49723
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -21,6 +22,9 @@ contributor:
     deathdate: 1899
     gutenberg_agent_id: '39002'
     url: http://www.gutenberg.org/2009/agents/39002
+covers:
+- cover_type: archival
+  image_path: 49723-h/images/cover.jpg
 creator:
   author:
     agent_name: Goldsmith, Oliver
@@ -30,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/211
     wikipedia: http://en.wikipedia.org/wiki/Oliver_Goldsmith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49723#The-Poems-of-Oliver-Goldsmith
 gutenberg_issued: '2015-08-17'
 gutenberg_type: Text
 identifiers:
